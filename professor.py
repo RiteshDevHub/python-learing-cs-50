@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import random
 
 
@@ -136,5 +135,4 @@ def solve(que):
     return
 
 if __name__ == "__main__":
->>>>>>> 0da4643af6bd04b3573c0d72ea37ac49b9cbbd15
     main()
