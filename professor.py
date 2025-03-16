@@ -3,7 +3,7 @@ import random
 def main():
     level = get_level("Level: ")
     problems = generate_integer(level)
-    solution = solve(problems)
+    solve(problems)
 
 def get_level(prompt):
     while True:
